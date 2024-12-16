@@ -1,0 +1,11 @@
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\bin\Debug\AdvancedTextEditor.exe.config
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\bin\Debug\AdvancedTextEditor.exe
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\bin\Debug\AdvancedTextEditor.pdb
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.csproj.AssemblyReference.cache
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.Form1.resources
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.Properties.Resources.resources
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.csproj.GenerateResource.cache
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.exe
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.pdb
+C:\Users\Alem\source\repos\AdvancedTextEditor\AdvancedTextEditor\obj\Debug\AdvancedTextEditor.DeveloperMode.resources
