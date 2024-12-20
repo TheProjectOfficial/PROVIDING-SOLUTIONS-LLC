@@ -1,6 +1,0 @@
-The Source Code gets updated often, it does not always stay the same.
-
-WARNING ABOUT THE SRC
-
-Currently, we have a check which checks what version is the newest and if the version running it the latest. currently, we make this check using Novoware which is discontiniued now.
-when we get our own website we will move it to there.
