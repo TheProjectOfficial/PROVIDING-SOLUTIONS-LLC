@@ -1,0 +1,14 @@
+Version: 1.1.0
+Updated on: 20.12.2024
+
+Changelog:
++ Added save current state and relaunching the same state the next time.
++ Added Visuals function, that can be changed, for example (Button Color, Text Color, Background Color, Change Button Back Color, and more. make it as you like it.)
++ Added "Running save" text.
++ Added Presets like: Json, XML presets. (Warning, For The JSON Presets, the external binary called "Newtonsoft.Json" had to be used.
++ Updated Settings tab.
++ Added Fonts tab, (only changes textbox font and font size.)
++ Added Red Area, where either all saved files can be deleted, or a selected file.
++ Added Text to Speech
++ Maded it available to change the voice for tts.
++ Updated background, now matches up with the functions like text, button, combobox etc.
